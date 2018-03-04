@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-step-by-step</string>
+    <string name="search">Search</string>
+    <string name="empty_repo_list">Empty  list</string>
+</resources>
